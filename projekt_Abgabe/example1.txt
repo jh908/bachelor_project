@@ -1,0 +1,51 @@
+description: some complex program
+
+signature: main: (int, bool, str) -> str
+
+intro: x b s
+
+let: (integer_will_be_changed_soon_to_float:int)
+
+fill: 5
+
+let: (my_float:float)
+
+let:(my_complex:complex)
+
+let: (a_string_will_be_changed_to_true_soon :str)
+
+let: (my_string:str)
+
+let:(integer_will_be_changed_soon_to_float:float)
+
+fill: 6.5
+
+switch: 5
+
+fill: 'This is a string but after that will be changed to bool'
+
+fill: 5j+6
+
+let: (a_string_will_be_changed_to_true_soon:bool)
+
+fill: 'some string'
+
+fill: 7.6
+
+fill: b or b
+
+let: (bi:bool)
+
+let: (bibi:bool)
+
+let: (bi:int)
+
+return: my_string
+
+switch: 9
+
+fill: 6
+
+fill: True
+
+finish:

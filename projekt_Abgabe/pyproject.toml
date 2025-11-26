@@ -1,0 +1,9 @@
+[project]
+name = "bachelor_project"
+version = "1.0"
+description = "My Python bachelor project about tactic_interpreter"
+authors = [{name = "Judi Hamdo", email = "judiha95@gmail.com"}]
+license = {text = "Copyright (c) 2025 Judi Hamdo. All rights reserved."}
+
+[project.dependencies]
+# No entries needed because only standard library modules are used

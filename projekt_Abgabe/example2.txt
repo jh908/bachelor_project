@@ -1,0 +1,35 @@
+description:
+
+signature: main: (int, bool, str) -> int
+
+intro: x b s
+
+let: (d: int)
+
+let: (f: float)
+
+let: (n: int)
+
+switch: 4
+
+fill: 5.7
+
+let: (f:str)
+
+switch: 5
+
+switch: 4
+
+switch: 3
+
+fill: 6
+
+fill: 56
+
+switch: 4
+
+fill: 'f was float but we have changed it to string'
+
+return: d*n*x*(5+6)
+
+finish:
